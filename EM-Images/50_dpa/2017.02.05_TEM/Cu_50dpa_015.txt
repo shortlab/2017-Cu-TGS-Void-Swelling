@@ -1,0 +1,17 @@
+           FileName = Q:\cdennett\save\Cu_50dpa_015.txt
+       Microscopist = 
+      Date_And_Time = 02/05/17 at 15:20
+  TEM_Magnification = 10000
+       CaptionLine1 = 
+       CaptionLine2 = 
+Pixel_X_Calibration = 1.285 nm
+Pixel_Y_Calibration = 1.285 nm
+         X_Position = 
+         Y_Position = 
+               Tilt = 
+ Accel._Voltage(kV) = 200 kV
+           TEM_Mode = Imaging
+           KeyWord1 = 
+           Keyword2 = 
+       TEM_Facility = AMT Camera System
+            Account = 

@@ -1,0 +1,39 @@
+====== Cu (10) into Layer 1                     =======
+        SRIM-2013.00
+=======================================
+      Data  of  TRIM  Calculation      
+=======================================
+--------------------------------------------------------------------
+    Recoil/Damage Calculations made with Kinchin-Pease Estimates    
+--------------------------------------------------------------------
+Ion = Cu (29)   Ion Mass= 062.9300
+Energy  = 3000000.E-02 keV
+Ion Angle to Surface = 0 degrees
+============= TARGET MATERIAL ======================================
+  Layer # 1 - Layer 1
+  Layer # 1 - Bottom Depth=     7.E+04 A
+  Layer # 1- Density = 8.453E22 atoms/cm3 = 8.92 g/cm3
+  Layer # 1- Cu = 100  Atomic Percent = 100  Mass Percent
+====================================================================
+Target energies for target atom = Cu
+    Displacement = 30 eV, Binding = 0 eV, Surface = 3.52 eV
+====================================================================
+Depth Range of Tabulated Data=  000000.E+00  -  700000.E-01  Angstroms
+====================================================================
+Total Ions calculated =  019285
+Average Range         =   40465.E+00 Angstroms
+Average Straggling    =   37181.E-01 Angstroms
+Average Vacancy/Ion   =   19396.E+00
+====================================================================
+Total Backscattered Ions=  0 
+Total Transmitted Ions  =  0 
+====================================================================
+See files SRIM Outputs\*.txt for tables :
+   TDATA.txt    -- Details of the calculation.
+   RANGE.txt    -- Final distribution of Ions/Recoils
+   VACANCY.txt  -- Distribution of Vacancies
+   IONIZ.txt    -- Distribution of Ionization
+   PHONON.txt   -- Distribution of Phonons
+   E2RECOIL.txt -- Energy transferred to recoils
+   NOVAC.txt    -- Replacement collisions
+   LATERAL.txt  -- Lateral Spread of Ions
