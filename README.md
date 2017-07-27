@@ -11,8 +11,6 @@ Include in this repository are the following
 - Matlab processing scripts used to determine the dominant frequency of each TGS measurement, these frequencies can later be used to determine the acoustic wave speed from the calibrated grating spacing.
 	- The function param_extract.m is used to find these dominant frequencies, instructions on its use can be found in the comments of the function
 	
-
-
 <a href="https://www.zenodo.org/badge/latestdoi/97835508"><img src="https://www.zenodo.org/badge/97835508.svg" alt="DOI"></a>
 
 
