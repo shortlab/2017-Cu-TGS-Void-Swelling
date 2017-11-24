@@ -15,4 +15,4 @@ Initial Revision Data Repo: <a href="https://www.zenodo.org/badge/latestdoi/9783
 
 New Revision After Reviews: <a href="https://www.zenodo.org/badge/latestdoi/97835508"><img src="https://www.zenodo.org/badge/97835508.svg" alt="DOI"></a>
 
-New Revision after Acta Re-Reviews: 
+New Revision after Acta Re-Reviews: <a href="https://www.zenodo.org/badge/latestdoi/97835508"><img src="https://www.zenodo.org/badge/97835508.svg" alt="DOI"></a>
