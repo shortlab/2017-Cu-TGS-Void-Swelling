@@ -106,7 +106,7 @@ c      cml(1,2)=60.90d0
 c      cml(4,4)=28.30d0
 c======================
 C     elastic constants and density of Nb with cubic symmetry
-c     sourced from Carroll, PRL (1965)
+c     sourced from Carroll, JAP (1965)
 c      rhol=8.5605d0;
 c      cml(1,1)=245.6d0;
 c      cml(1,2)=138.7d0; 
@@ -126,15 +126,15 @@ c      cml(1,2)=122.2d0
 c      cml(4,4)=75.42d0
 c density with a 12.8% reduction from nominal based on image processing over an area a grating wavelength deep to match 90 dpa data
 c BASED ON OVERTON starting point, not LEDBETTER
-c      rhol=7.81312d0
-c      cml(1,1)=137.6970d0
-c      cml(1,2)=99.3510d0
-c      cml(4,4)=56.2352d0
+      rhol=7.81312d0
+      cml(1,1)=142.6740d0
+      cml(1,2)=102.8560d0
+      cml(4,4)=52.9272d0
 c density with a 0.79% reduction to match the 5 dpa case
-      rhol=8.889216d0
-      cml(1,1)=165.9d0
-      cml(1,2)=119.6d0
-      cml(4,4)=73.51d0
+c      rhol=8.889216d0
+c      cml(1,1)=165.9d0
+c      cml(1,2)=119.6d0
+c      cml(4,4)=73.51d0
 c     second set from overton (1954) for 300 K corresponds to 'new' saved .txt files
 c     cml(1,1)=168.4d0
 c      cml(1,2)=121.4d0
